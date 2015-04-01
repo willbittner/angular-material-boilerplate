@@ -1,0 +1,27 @@
+{
+  "name": "ng-material-fx",
+  "version": "0.0.0",
+  "authors": [
+    "Will Bittner <will@brookfield.ventures>"
+  ],
+  "main": "public/index.html",
+  "keywords": [
+    "angular",
+    "material"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~0.8.3",
+    "material-design-icons": "~1.0.1"
+  },
+  "devDependencies": {
+    "livereload-js": "~2.2.1",
+    "livereload": "~2.2.1"
+  }
+}
